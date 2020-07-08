@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\EDIDataReaderApp\obj\Debug\EDIDataReaderApp.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\EDIDataReaderApp\obj\Debug\EDIDataReaderApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\EDIDataReaderApp\bin\Debug\EDIDataReaderApp.exe.config
+C:\Users\LENOVO\source\repos\EDIDataReaderApp\bin\Debug\EDIDataReaderApp.exe
+C:\Users\LENOVO\source\repos\EDIDataReaderApp\bin\Debug\EDIDataReaderApp.pdb
+C:\Users\LENOVO\source\repos\EDIDataReaderApp\obj\Debug\EDIDataReaderApp.exe
+C:\Users\LENOVO\source\repos\EDIDataReaderApp\obj\Debug\EDIDataReaderApp.pdb
